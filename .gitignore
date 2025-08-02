@@ -27,10 +27,8 @@ env/
 .venv/
 
 # Environment variables
-.env
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -51,3 +49,9 @@ obs_backup.json
 
 # Logs
 *.log
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
